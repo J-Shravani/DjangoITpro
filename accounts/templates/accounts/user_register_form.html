@@ -1,0 +1,25 @@
+<html>
+<body style ="background: url(https://thumbor.forbes.com/thumbor/1280x868/https%3A%2F%2Fblogs-images.forbes.com%2Fjaysondemers%2Ffiles%2F2014%2F07%2Ftwitter-follow-me.jpg);"> 
+</body>
+</html>
+{% extends "base.html" %}
+
+
+{% load crispy_forms_tags %}
+
+{% block title %} Register | {{block.super}} {% endblock title %}
+
+{% block content %}
+<div class="row">
+    <div class="col-sm-6 col-sm-offset-3">
+        <h1>Register for an account</h1>
+        <form class='form {% if form_id %}{{ form_id }}{% endif %}'
+      method='POST' action="{% if action_url %}{{ action_url }}{% endif %}">
+   {% csrf_token %}
+    {{ form|crispy }}
+    <input class='btn btn-primary' type="submit" value="Register" />
+</form>
+    </div>
+</div>
+{% endblock content %}
+

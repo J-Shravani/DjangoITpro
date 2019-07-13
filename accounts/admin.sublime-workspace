@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"twee",
+				"tweet"
+			],
+			[
+				"te",
+				"tweet"
+			],
+			[
+				"obje",
+				"get_object_or_404"
+			],
+			[
+				"album",
+				"album_id"
+			],
+			[
+				"song",
+				"song_set"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"o",
+				"objects"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/accounts/models.py",
+		"/C/industrialtrainingminiproject/myproject41/Viberr-master/music/views.py",
+		"/C/industrialtrainingminiproject/myproject41/Viberr-master/music/models.py",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/accounts/templates/accounts/user_register_form.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/accounts/templates/accounts/user_detail.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/models.py",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/templates/search.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/accounts/views.py",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/validators.py",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/views.py",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/templates/base.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweetme/settings/production.py",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweetme/settings/local.py",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweetme/settings/base.py",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/templates/home.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/templates/navbar.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/templates/tweets/create_view.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/templates/tweets/delete_confirm.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/templates/tweets/detail_view.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/templates/tweets/form.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/templates/tweets/list_view.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/templates/tweets/search_form.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/templates/tweets/tweet_detail.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/templates/tweets/tweet_list.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/templates/tweets/update_view.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/apps.py",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/admin.py",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/tests.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/templates/tweets/search_form.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/forms.py",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweets/urls.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/models.py",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/templates/reply-modal.html",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/templates/search.html",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/templates/base.html",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/hashtags/models.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/accounts/templates/registration/login.html",
+		"/C/industrialtrainingminiproject/myproject41/Viberr-master/website/settings.py",
+		"/C/miniproject6thsem/phase-31/tweetme-master/src/tweetme/urls.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/templates/reply-modal.html",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/templates/navbar.html",
+		"/C/industrialtrainingminiproject/myproject41/Viberr-master/website/urls.py",
+		"/C/industrialtrainingminiproject/myproject41/Viberr-master/music/templates/music/detail.html",
+		"/C/industrialtrainingminiproject/myproject41/Viberr-master/music/templates/music/create_album.html",
+		"/C/industrialtrainingminiproject/myproject41/Viberr-master/music/templates/music/userlist.html",
+		"/C/industrialtrainingminiproject/myproject41/Viberr-master/music/templates/music/admin.html",
+		"/C/industrialtrainingminiproject/myproject41/Viberr-master/music/templates/music/albumlist.html",
+		"/C/industrialtrainingminiproject/myproject41/Viberr-master/music/admin.py",
+		"/C/industrialtrainingminiproject/myproject41/Viberr-master/music/forms.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/accounts/templatetags/recommended.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/accounts/templates/accounts/snippets/recommend.html",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/accounts/templates/accounts/user_register_form.html",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/accounts/templates/accounts/user_detail.html",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/validators.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/views.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/urls.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/tests.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/mixins.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/forms.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/apps.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/admin.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/templates/tweets/create_view.html",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/templates/tweets/delete_confirm.html",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/templates/tweets/form.html",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/templates/tweets/update_view.html",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/templates/tweets/tweet_detail.html",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweets/templates/tweets/tweet_list.html",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/accounts/views.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/templates/home.html",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/accounts/models.py",
+		"/C/Users/Srinivas Rao/AppData/Local/Temp/Rar$DIa0.744/urls.py",
+		"/C/Users/Srinivas Rao/AppData/Local/Temp/Rar$DIa0.917/views.py",
+		"/C/Users/Srinivas Rao/AppData/Local/Temp/Rar$DIa0.739/models.py",
+		"/C/Users/Srinivas Rao/AppData/Local/Temp/Rar$DIa0.870/forms.py",
+		"/C/Users/Srinivas Rao/AppData/Local/Temp/Rar$DIa0.678/admin.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/accounts/forms.py",
+		"/C/Users/Srinivas Rao/Desktop/twitter.html",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweetme/views.py",
+		"/C/miniproject6thsem/phase-30/Tweetme-01dbcb4366f9f5cc81b601e5a63e26c3a958b1c8/src/tweetme/urls.py",
+		"/C/sales/info/views.py",
+		"/C/sales/sales/urls.py",
+		"/C/sales/sales/settings.py",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/accounts/models.py",
+		"/C/sales/info/models.py",
+		"/C/Users/Srinivas Rao/AppData/Local/Temp/Rar$DIa0.438/settings.py",
+		"/C/sales/templates/home.html",
+		"/C/sales/templates/topics.html",
+		"/C/sales/templates/topics1.html",
+		"/C/Users/Srinivas Rao/AppData/Local/Temp/Rar$DIa0.894/admin.py",
+		"/C/industrialtrainingminiproject/myproject41/Viberr-master/music/templates/music/login.html",
+		"/C/industrialtrainingminiproject/myproject41/Viberr-master/music/templates/music/register.html",
+		"/C/industrialtrainingminiproject/myproject41/Viberr-master/music/templates/music/base.html",
+		"/D/myproject1/sales_information/sales_information/templates/client.html",
+		"/D/myproject1/sales_information/sales_information/sales_information/settings.py",
+		"/D/myproject1/sales_information/sales_information/templates/order.html",
+		"/D/myproject1/sales_information/sales_information/templates/home.html",
+		"/D/myproject1/sales_information/sales_information/sales/admin.py",
+		"/D/myproject1/sales_information/sales_information/sales/models.py",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweets/forms.py",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweets/models.py",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweets/admin.py",
+		"/C/miniproject6thsem/phase-26/Tweetme-4703886e3cd1b70807e1beec9583d5a29add5e0d/src/tweetme/urls.py",
+		"/C/miniproject6thsem/phase-26/Tweetme-4703886e3cd1b70807e1beec9583d5a29add5e0d/src/templates/base.html",
+		"/C/mpresent/Tweetme-4703886e3cd1b70807e1beec9583d5a29add5e0d/src/accounts/models.py",
+		"/C/Users/Srinivas Rao/AppData/Local/Temp/Rar$DIa0.306/urls.py",
+		"/C/Users/Srinivas Rao/AppData/Local/Temp/Rar$DIa0.659/base.py",
+		"/C/miniproject6thsem/phase-26/Tweetme-4703886e3cd1b70807e1beec9583d5a29add5e0d/src/tweets/templates/tweets/tweet_list.html",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweets/templates/tweets/tweet_list.html",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweets/templates/tweets/update_view.html",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweets/apps.py",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweets/templates/tweets/create_view.html",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweets/templates/tweets/tweet_detail.html",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweets/templates/tweets/search_form.html",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweets/templates/tweets/delete_confirm.html",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweets/__init__.py",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweetme/views.py",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/templates/reply-modal.html",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/templates/search.html",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/templates/base.html",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/static-serve/css/bootstrap.css",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/templates/navbar.html",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweetme/settings/production.py",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweetme/settings/base.py",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweetme/settings/local.py",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/templates/home.html",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/hashtags/templates/hashtags/tag_view.html",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweets/mixins.py",
+		"/C/miniproject6thsem/phase-29/Tweetme-54fb1ac59a9c0a0923c54341d23d6b81065ba992/src/tweets/templates/tweets/form.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "admin.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
